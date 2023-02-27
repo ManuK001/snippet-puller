@@ -1,2 +1,2 @@
 # snippet-puller
-Scraps the issues with gists/code-snippets and check whether they are solving in nightly version or not.
+Scraps the issues id , title and code mentioned in template/ reproducible step mentioned in template
